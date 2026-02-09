@@ -1,0 +1,22 @@
+# Visual Studio files
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+
+# Unreal Engine temp files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+
+# Local configuration
+Config/Desktop/
+Config/NoRedist/
+
+# Mac / XCode stuff (innecesario en Windows)
+*.xcodeproj
+*.xcworkspace
